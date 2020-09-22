@@ -1,0 +1,21 @@
+{
+  "name": "node-email-validator",
+  "version": "1.0.0",
+  "description": "A simple email validator",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "\u0016https://github.com/wandersoncesar/node-email-validator.git"
+  },
+  "keywords": [
+    "email",
+    "validator",
+    "node-email",
+    "node-email-validator"
+  ],
+  "author": "Wanderson César",
+  "license": "ISC"
+}
