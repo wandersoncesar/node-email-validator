@@ -17,5 +17,8 @@
     "node-email-validator"
   ],
   "author": "Wanderson César",
-  "license": "ISC"
+  "license": "ISC",
+  "publishConfig": { 
+    "registry": "https://npm.pkg.github.com/" 
+  }
 }
