@@ -1,5 +1,5 @@
 {
-  "name": "node-email-validator",
+  "name": "simple-node-email-validator",
   "version": "1.0.0",
   "description": "A simple email validator",
   "main": "app.js",
@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "\u0016https://github.com/wandersoncesar/node-email-validator.git"
+    "url": "\u0016https://github.com/wandersoncesar/simple-node-email-validator.git"
   },
   "keywords": [
     "email",
