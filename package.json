@@ -7,10 +7,6 @@
     "test": "echo \"Error: no test specified\" && exit 1"
   },
   "homepage": "https://github.com/wandersoncesar/simple-node-email-validator.git",
-  "bugs": {
-    "email": "contato@wandersoncesar.com.br",
-    "url": "https://github.com/wandersoncesar/simple-node-email-validator.git"
-  },
   "repository": {
     "type": "git",
     "url": "https://github.com/wandersoncesar/simple-node-email-validator.git"
@@ -22,8 +18,5 @@
     "node-email-validator"
   ],
   "author": "Wanderson César",
-  "license": "ISC",
-  "publishConfig": { 
-    "registry": "https://npm.pkg.github.com/" 
-  }
+  "license": "ISC"
 }
