@@ -1,12 +1,11 @@
 {
   "name": "simple-node-email-validator",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "A simple email validator",
   "main": "app.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "homepage": "https://github.com/wandersoncesar/simple-node-email-validator.git",
   "repository": {
     "type": "git",
     "url": "https://github.com/wandersoncesar/simple-node-email-validator.git"
