@@ -4,4 +4,5 @@ A simple email validator
 `npm install --save simple-node-email-validator`  
 ## How to use
 ``var emailValidator = require("simple-node-email-validator")``  
-``var isValidEmail = emailValidator("username@domain.com") // true or false``
+``var isValidEmail = emailValidator("username@domain.com") // true``  
+``var isValidEmail = emailValidator("simplestring") // false``
